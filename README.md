@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Olá, sou o Sebastião Rodrigo 👋
 
 <!--
 **SebastiaoRodrigo/SebastiaoRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
