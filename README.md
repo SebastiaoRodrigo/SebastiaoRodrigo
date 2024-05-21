@@ -1,5 +1,9 @@
 ## 👋 Olá, sou o Sebastião Rodrigo 👋
 
+<div style="display: incline_block"><br/>
+  <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+</div>
+          
 <!--
 **SebastiaoRodrigo/SebastiaoRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
